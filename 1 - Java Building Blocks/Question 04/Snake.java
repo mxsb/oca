@@ -1,3 +1,6 @@
+/**
+ * @author mxsb
+ */
 public class Snake {
 	// String result = "done";
 	public void shed(boolean time) {
